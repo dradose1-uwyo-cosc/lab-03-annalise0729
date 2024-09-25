@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Annalise Gade]
+## [Lab03]
+## [Submission date: 09/29/24]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* "Introducing Lists" Lecture
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* N/A
